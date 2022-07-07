@@ -1,0 +1,33 @@
+h1 {
+    font-family: sans-serif
+}
+footer {
+    text-align: center;
+}
+
+.agrupar {
+    border: 2px solid black;
+    width: 960px;
+    background-color: rgb(0, 255, 157); color:rgb(38, 0, 255);
+    margin: auto;
+}
+li {
+    
+    display: inline-block;
+}
+.seccion {
+    margin: 20px;
+    width: 600px;
+    float: left
+}
+
+article {
+    background: rgb(9, 255, 0);
+}
+
+.columna {
+    width:  250px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
